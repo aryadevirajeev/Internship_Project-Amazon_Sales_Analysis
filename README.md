@@ -1,2 +1,2 @@
-# Amazon_Sales_Analysis
-Internship Project
+# Amazon Sales Analysis
+
