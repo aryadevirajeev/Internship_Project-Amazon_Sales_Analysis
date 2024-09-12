@@ -12,6 +12,7 @@
  - MySQL - Exploratory Data Analysis
  - Power BI - Creating reports
 ### Exploratory Data Analysis (EDA):  
+EDA was done using MySQL Workbench. A table was created and the date was analysed running some queries. 
 
  
 
