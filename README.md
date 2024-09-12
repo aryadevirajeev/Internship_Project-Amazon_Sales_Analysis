@@ -7,5 +7,9 @@
  The analyst team is required to do ETL(Extrcat Transform Load) some Amazon dataset and find Sales-trend -> month-wise, year-wise, yearly_month-wise.  
  The sales team needs to know the key metrics and factors and show the meaningful relationships between attributes.  
  ## Data Source  
- Amazon sales data is provided as .xlsx file having different regions,countires,products,sales_channel,unit_sold,unit_price,unit_cost,total revenue,total_cost,total_profit.
+ Amazon sales data is provided as .xlsx file having different regions,countires,products,sales_channel,unit_sold,unit_price,unit_cost,total revenue,total_cost,total_profit.  
+ ## Tools  
+ - MySQL - Exploratory Data Analysis
+ - Power BI - Creating reports
+ 
 
