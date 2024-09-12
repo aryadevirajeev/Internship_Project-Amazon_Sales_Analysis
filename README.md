@@ -11,5 +11,7 @@
  ## Tools  
  - MySQL - Exploratory Data Analysis
  - Power BI - Creating reports
+### Exploratory Data Analysis (EDA):  
+
  
 
