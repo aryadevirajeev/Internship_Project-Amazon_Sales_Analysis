@@ -16,6 +16,12 @@ Sales management has gained importance to meet increasing competition and the ne
  ### Tools  
  - MySQL - Exploratory Data Analysis
  - Power BI - Creating reports
+   
+   **Sales Analysis**
+   ![Screenshot SalesAnalysis](https://github.com/user-attachments/assets/456fa144-a81c-4295-aaf4-05ae7a99a5ac)
+   **Regional Sales Analysis**
+   ![Screenshot RegionalYearly](https://github.com/user-attachments/assets/ccdcf385-91aa-4c7b-8a19-10ad185d6d4d)
+
 ### Exploratory Data Analysis (EDA):  
 EDA was done using MySQL Workbench. The amazon sales data table was loaded to the database and the data was analysed running some queries. After that data was transformed using Power BI and created some valuable KPIs.  
 ## Results  
